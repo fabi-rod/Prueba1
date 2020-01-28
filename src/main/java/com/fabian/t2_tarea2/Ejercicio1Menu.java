@@ -28,6 +28,8 @@ import java.util.Scanner;
 public class Ejercicio1Menu {
 
     public static void main(String[] args) {
+       
+        System.out.println("Prueba GIT");
 
         int valorNumerico;      //Valor a introducir que entrará en el módulo correspondiente
         int valorVacio = 0;     //Valor a que se usará para salir del programa
