@@ -23,7 +23,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Fabian Rodriguez
+ * @author Fabian Rodriguez Gomez
  */
 public class Ejercicio1Menu {
 
